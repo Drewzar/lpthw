@@ -12,7 +12,7 @@ print "I said: %r." % x
 print "I also said: '%s'." % y
 
 hilarious = False
-joke_evaluation = "Isn't that joke so funn?! %r"
+joke_evaluation = "Isn't that joke so funny?! %r"
 
 print joke_evaluation % hilarious
 
