@@ -1,4 +1,4 @@
-#Exercise 17: More Files
+#Exercise 17: More Files: Extra Credit 2
 
 from sys import argv
 from os.path import exists
