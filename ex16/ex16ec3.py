@@ -1,4 +1,4 @@
-# Exercise 16: Reading And Writing Files
+# Exercise 16: Extra Credit 3
 
 from sys import argv
 
